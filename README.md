@@ -2,7 +2,7 @@
 
 42 Piscine C01 exercises.
 
-This repository contains my solutions for the C01 project from the 42 Piscine.  
+This repository contains my solutions for the C01 project completed during the 42 Piscine.  
 The project focuses on pointers, pointer manipulation, string output, array handling, and basic integer array algorithms in C.
 
 ## Exercises
@@ -33,3 +33,15 @@ piscineC01/
 ├── ex07/
 ├── ex08/
 └── .gitignore
+```
+
+## Notes
+
+This repository is part of my work during the 42 Piscine.  
+The goal of C01 is to understand how pointers work in C and how to use them to modify values, strings, and arrays.
+
+Testing `main` functions and unnecessary includes should be removed before submitting to 42.
+
+## Author
+
+KruKuma
